@@ -1,4 +1,4 @@
-## Cíntia Pierote 💻📊
+## Cíntia Pierote 💻📈
 **Data Analyst**
 
 My name is Cintia and I currently live in Italy. I have a background in Business Administration with an MBA in Project Management and over 11 years of experience in the financial sector. Now, I am transitioning into the tech industry, driven by a passion for data, automation, and innovation.
@@ -115,7 +115,7 @@ This space serves as my portfolio, where I showcase my projects and learning jou
 <br/>
 <br/>
 
-### 📊 Estatistics
+### 📊 Statistics
 
 
 <p>
