@@ -124,7 +124,7 @@ This space serves as my portfolio, where I showcase my projects and learning jou
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipieroteds&theme=tokyonight&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipieroteds&theme=transparent&layout=compact" 
   />
 
 <img 
@@ -132,7 +132,7 @@ This space serves as my portfolio, where I showcase my projects and learning jou
       alt="GitHub Stats" 
       height="150" 
       style="padding-right: 10px;"
-      src= "https://github-readme-stats.vercel.app/api?username=cipieroteds&show_icons=true&theme=tokyonight"
+      src= "https://github-readme-stats.vercel.app/api?username=cipieroteds&show_icons=true&theme=transparent"
   />
 
 </p>
