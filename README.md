@@ -41,8 +41,8 @@ This space serves as my portfolio, where I showcase my projects and learning jou
 />
 <img 
     align="left" 
-    alt="Matplotlib" 
-    title="Matplotlib"
+    alt="Plotly" 
+    title="Plotly"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
