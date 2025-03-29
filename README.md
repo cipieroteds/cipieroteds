@@ -11,20 +11,19 @@ This space serves as my portfolio, where I showcase my projects and learning jou
     <a href="https://github.com/cipieroteds?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
-            title="Stars GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cipieroteds?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/cipieroteds?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/cipieroteds?tab=followers">
         <img 
-            alt="Followers" 
+            alt="Follower" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cipieroteds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/cipieroteds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-     
-
 </p>
+
 
 ---
 
