@@ -12,14 +12,14 @@ This space serves as my portfolio, where I showcase my projects and learning jou
         <img 
             alt="Stars" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cipieroteds?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/cipieroteds?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
-    <a href="https://github.com/cipieroteds?tab=followers">
+    <a href="https://github.com/cipieroteds?tab=follower">
         <img 
             alt="Follower" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cipieroteds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/cipieroteds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follower&logoColor=white"
         />
     </a>
 </p>
